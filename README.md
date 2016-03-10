@@ -1,2 +1,2 @@
-# v1
-Demir DC - CMS v1
+# Demir DC - CMS v1
+[ Coming soon ... ]
